@@ -1,4 +1,3 @@
-
 !Checho Botello Analitycs Banner]()
 <!--(https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)-->
 
@@ -8,8 +7,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Especializandome en Data Analitycs y Data Scientist en el campo de la salud
-🎓 &nbsp; Lic. en Kinesiologia y Fisioterapia, actualmente trabajo en consultorio de rehabilitacion de traumatologia.
+💡 &nbsp; Especializandome en Data Analitycs y Data Scientist en el campo de la salud.\
+🎓 &nbsp; Lic. en Kinesiologia y Fisioterapia, actualmente trabajo en consultorio de rehabilitacion de traumatologia.\
 ✉️ &nbsp;You can shoot me an email at checho.botello89@gmail.com! I'll try to respond as soon as I can.\ 
 
 <!--🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
